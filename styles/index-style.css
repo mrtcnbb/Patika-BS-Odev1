@@ -1,0 +1,19 @@
+body {
+  background-color: #e9ecef;
+}
+
+.display-4 {
+  color: rgb(235, 39, 39);
+}
+
+.parag {
+  font-size: 17px;
+}
+
+.parag-2 {
+  color: goldenrod;
+}
+
+.navbar-brand {
+  color: rgb(235, 39, 39) !important;
+}
