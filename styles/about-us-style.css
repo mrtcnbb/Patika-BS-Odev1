@@ -1,0 +1,21 @@
+body {
+  background-color: #e9ecef;
+}
+
+.display-4 {
+  color: darkviolet;
+}
+
+.navbar-brand {
+  color: rgb(235, 39, 39) !important;
+}
+
+.card-body {
+  font-weight: 600;
+  background-color: #e9ecef;
+  border: 1px solid #dee2e6;
+}
+
+.ct {
+  color: goldenrod;
+}
