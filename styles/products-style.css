@@ -1,0 +1,20 @@
+body {
+  background-color: #e9ecef;
+}
+
+.display-4,
+.card-title {
+  color: darkviolet;
+}
+
+.navbar-brand {
+  color: rgb(235, 39, 39) !important;
+}
+
+.card-text {
+  color: white;
+  padding: 0 5px;
+  margin-top: auto !important;
+  border-radius: 5px;
+  background-color: gray !important;
+}
